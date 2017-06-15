@@ -8,10 +8,8 @@ class TCP_Client(object):
         self.sock.connect(server_address)
     
     def send_to_server(self, message):
-        try:            
-            self.sock.sendall(message)            
-        finally:
-            self.sock.close()
+        self.sock.send(message)            
+
 
 if __name__ == '__main__':
     client = TCP_Client()
