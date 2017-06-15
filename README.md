@@ -6,6 +6,8 @@
 ## Socket
 * https://pymotw.com/2/socket/tcp.html
 * http://www.linuxhowtos.org/C_C++/socket.htm
+* http://www.binarytides.com/programming-udp-sockets-in-python/
+* https://wiki.python.org/moin/UdpCommunication
 
 ## Telnet
 * https://docs.python.org/2/library/telnetlib.html
