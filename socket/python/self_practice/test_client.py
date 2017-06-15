@@ -12,7 +12,7 @@ client = TCP_Client()
 after = time.time()
 log.write("%f %f connection %f\n" %(start, start, after))
 
-for i in range(100):
+for i in range(10000):
     before = time.time()
     client.send_data()
     after = time.time()

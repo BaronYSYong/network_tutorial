@@ -15,4 +15,3 @@ class TCP_Client(object):
             data = self.client.recv(255)
             if data:
                 break
-        print data

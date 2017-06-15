@@ -17,7 +17,6 @@ if __name__ == '__main__':
             while True:
                 data = connection.recv(255)
                 if data:
-                    print data
                     connection.sendall('server')  
                 else:
                     print "break"
