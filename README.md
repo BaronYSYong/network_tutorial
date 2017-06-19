@@ -10,6 +10,7 @@
 * https://wiki.python.org/moin/UdpCommunication
 * http://www.binarytides.com/code-chat-application-server-client-sockets-python/
 * http://www.binarytides.com/python-socket-server-code-example/
+* http://www.binarytides.com/category/programming/sockets/python-sockets-sockets/
 
 ## Telnet
 * https://docs.python.org/2/library/telnetlib.html
