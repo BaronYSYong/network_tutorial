@@ -2,6 +2,7 @@
 
 ## Reference
 * https://github.com/msgpack-rpc/msgpack-rpc-python
+* http://msgpack.org/rpc/rdoc/current/MessagePack/RPC.html
 
 ## Installation
 ```
