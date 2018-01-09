@@ -2,6 +2,7 @@
 
 ## C++
 * https://docs.websocketpp.org/tutorials.html
+* https://github.com/Microsoft/cpprestsdk
 
 ## Python 
 * https://github.com/OliverF/SimpleWebSocketServer
